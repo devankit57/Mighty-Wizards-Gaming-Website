@@ -15,15 +15,17 @@ bash
 git clone https://github.com/YOUR-USERNAME/gaming-website.git
 
 
-Start the application by running the following command.
+<br>
+<b><h2>Application Features</h2></b>
+<br>
+The gaming website  includes the following features:
+<br>
+1.Animation on scroll
+2.Responsive design
+3.Gradient colour scheme
+4.Supported in almost all browsers
 
-sql
-Copy code
-npm start
-Open a web browser and navigate to http://localhost:3000 to access the application.
-Application Features
-The gaming website application includes the following features:
-
-User registration and login system
-Browse and search games by category
-Play games directly within the application
+<br>
+<b><h2>Screenshot : </h2></b>
+<br>
+<img src="img.png">
