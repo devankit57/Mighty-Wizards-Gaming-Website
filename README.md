@@ -9,10 +9,7 @@ This is just front-end  and built using HTML, CSS, and JavaScript.
 <br>
 To use  the gaming website code, follow these steps:
 <br>
-Clone the repository onto your local machine using Git.
-bash
-
-git clone https://github.com/YOUR-USERNAME/gaming-website.git
+Clone the repository and use it
 
 
 <br>
