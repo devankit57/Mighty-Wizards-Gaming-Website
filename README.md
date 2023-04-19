@@ -1,22 +1,19 @@
 <h1><b>Gaming Website Readme</b></h1>
 This is the readme file for your gaming website project, providing an overview of the project and instructions on how to set up and run the application.
+<br>
+<h2><b>Project Overview</b></h2>
+<br>
+This is just front-end  and built using HTML, CSS, and JavaScript.
 
-Project Overview
-The gaming website is a web application that allows users to browse and play games online. The application features a user registration and login system, a catalog of games with categories and search functionality, and a game playing interface.
-
-The front-end of the application is built using HTML, CSS, and JavaScript, while the back-end is powered by a server-side programming language and a database management system.
-
-Getting Started
-To run the gaming website application, follow these steps:
-
+<h2><b>Getting Started </b></h2>
+<br>
+To use  the gaming website code, follow these steps:
+<br>
 Clone the repository onto your local machine using Git.
 bash
-Copy code
+
 git clone https://github.com/YOUR-USERNAME/gaming-website.git
-Install the necessary dependencies for the application by running the following command in the project directory.
-Copy code
-npm install
-Create a database for the application using a database management system of your choice (e.g., MySQL, PostgreSQL, MongoDB). Make sure to update the database connection settings in the application's configuration file (config.js).
+
 
 Start the application by running the following command.
 
