@@ -1,4 +1,4 @@
-#Gaming Website Readme
+<h1><b>Gaming Website Readme</b></h1>
 This is the readme file for your gaming website project, providing an overview of the project and instructions on how to set up and run the application.
 
 Project Overview
